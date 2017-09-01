@@ -1,0 +1,40 @@
+1. I'm taking this course because I need to better find insights about my data.
+I'm a physics graduate student, but my interests are primarely in financial
+algorithms. The data is pretty complex and multidimensional, and good visualizations
+are required to gain insights about how or if the algorithm is working.
+
+2. I think I will learn how to better visualize my datasets and more quickly
+and efficiently extract insights.
+
+3. I have extensive Python experience, moderate C#/C++, and some C/VHDL/BASIC/random.
+
+4. I am most confortable with Python.
+
+5. I have created numerous heatmaps of aspects of my financial algorithm.
+
+6. My financial algorithm frequently generates datasets ~20GB. I use a homebuilt
+server to handle the largest datasets in memory, and failing that, I use HDF5 files
+to only partially load what I need. Numpy and Pandas takes care of manipulation.
+
+7. I saw some color-coded data on a geographic map related to global agriculture, but
+then I saw that animated size-coded scatterplot last class...wow.
+
+8. I really dislike overly crowded scatterplots. They hide a lot and are lazy. I also
+really dislike mysterious axes.
+
+9. I'm not a computer science person (physics), so I imagine 70% have better skills.
+
+10. I think my math skills are probably better than 80% of the class.
+
+11. Today I found out github automates what I manually have done for years, so no.
+Testing 1,2,3.......
+
+12. Today only.
+
+13. Today only.
+
+14. At the end of last quarter, I learned about markov processes. Nearly everything
+can be described as a markov process, if its next state only depends on its current state.
+That's nearly everything. Holy crap.
+
+
